@@ -1,0 +1,66 @@
+//   switch (percent) {
+//     case 5:
+//       nav.style.opacity = 1.9;
+//       break;
+
+//     case 10:
+//       nav.style.opacity = 1.9;
+//       break;
+//     case 15:
+//       nav.style.opacity = 1.9;
+//       break;
+//     case 20:
+//       nav.style.opacity = 1;
+//       break;
+//     case 25:
+//       nav.style.opacity = 1;
+//       break;
+//     case 30:
+//       nav.style.opacity = 0.9;
+//       break;
+//     case 35:
+
+//     case 40:
+//       nav.style.opacity = 0.88;
+//       break;
+//     case 45:
+//       nav.style.opacity = 0.77;
+//       break;
+//       nav.style.opacity = 0.66;
+//       break;
+//     case 50:
+//       nav.style.opacity = 0.55;
+//       break;
+//     case 55:
+//       nav.style.opacity = 0.5;
+//       break;
+//     case 60:
+//       nav.style.opacity = 0.4;
+//       break;
+//     case 65:
+//       nav.style.opacity = 0.35;
+//       break;
+//     case 70:
+//       nav.style.opacity = 0.3;
+//       break;
+//     case 75:
+//       nav.style.opacity = 0.25;
+//       break;
+//     case 80:
+//       nav.style.opacity = 0.2;
+//       break;
+//     case 85:
+//       nav.style.opacity = 0.15;
+//       break;
+//     case 90:
+//       nav.style.opacity = 0.1;
+//       break;
+//     case 95:
+//       nav.style.opacity = 0.05;
+//       break;
+//     case 100:
+//       nav.style.opacity = 0;
+//       break;
+//     default:
+//       break;
+//   }
